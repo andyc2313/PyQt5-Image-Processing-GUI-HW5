@@ -19,11 +19,17 @@ This project is a graphical user interface (GUI) application for image processin
 #### 🎨 Color Space Conversion  
 - Supports conversion to and visualization of the following color spaces:
   - RGB
+  - ![GUI Screenshot](RGB.png)
   - CMY
+  - ![GUI Screenshot](CMY.png)
   - HSI
+  - ![GUI Screenshot](HSI.png)
   - XYZ
+  - ![GUI Screenshot](XYZ.png)
   - Lab
+  - ![GUI Screenshot](Lab.png)
   - YUV
+  - ![GUI Screenshot](YUV.png)
 
 #### 🌈 Pseudo Color Mapping  
 - Applies OpenCV colormaps to grayscale images for pseudo color visualization:
