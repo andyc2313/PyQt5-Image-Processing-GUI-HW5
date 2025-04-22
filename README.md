@@ -36,8 +36,9 @@ This project is a graphical user interface (GUI) application for image processin
   - Jet
   - Hot
   - Cool
-  - Spring  
-  *(More can be added easily.)*
+  - Spring
+  - ![GUI Screenshot](Pseudo.png)
+
 
 #### 📊 k-means Clustering  
 - Performs k-means clustering on image pixels in selected color spaces:
