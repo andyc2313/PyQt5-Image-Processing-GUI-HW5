@@ -42,11 +42,11 @@ This project is a graphical user interface (GUI) application for image processin
 #### 📊 k-means Clustering  
 - Performs k-means clustering on image pixels in selected color spaces:
   - RGB
-  - ![GUI Screenshot](k-means_RGB.png)
+  - ![GUI Screenshot](k_means_RGB.png)
   - HSI
-  - ![GUI Screenshot](k-means_HSI.png)
+  - ![GUI Screenshot](k_means_HSI.png)
   - Lab
-  - ![GUI Screenshot](k-means_Lab.png)
+  - ![GUI Screenshot](k_means_Lab.png)
 - Result is displayed as a segmented image based on clustering.
 
 ---
