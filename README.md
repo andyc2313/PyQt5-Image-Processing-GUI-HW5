@@ -42,11 +42,11 @@ This project is a graphical user interface (GUI) application for image processin
 #### 📊 k-means Clustering  
 - Performs k-means clustering on image pixels in selected color spaces:
   - RGB
-  - ![GUI Screenshot](k-mean_RGB.png)
+  - ![GUI Screenshot](k-means_RGB.png)
   - HSI
-  - ![GUI Screenshot](k-mean_HSI.png)
+  - ![GUI Screenshot](k-means_HSI.png)
   - Lab
-  - ![GUI Screenshot](k-mean_Lab.png)
+  - ![GUI Screenshot](k-means_Lab.png)
 - Result is displayed as a segmented image based on clustering.
 
 ---
@@ -87,15 +87,3 @@ This project is a graphical user interface (GUI) application for image processin
 - scikit-learn
 
 ---
-
-### 📸 Example Screenshots
-> *(You can insert example GUI screenshots here if needed.)*
-
----
-
-If you have any questions or suggestions, feel free to reach out!  
-📧 *(Your email or GitHub link here)*
-
----
-
-Let me know if you want a super concise version, a professional GitHub-style README with badges, or a Markdown file version!
