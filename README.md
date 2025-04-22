@@ -37,7 +37,7 @@ This project is a graphical user interface (GUI) application for image processin
   - Hot
   - Cool
   - Spring
-  - ![GUI Screenshot](Pseudo.png)
+  - ![GUI Screenshot](Pseudo_Image.png)
 
 
 #### 📊 k-means Clustering  
