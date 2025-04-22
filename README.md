@@ -2,7 +2,7 @@
 
 ## 📌 HW5 - PyQt5 Image Processing GUI
 
-This project is a graphical user interface (GUI) application for image processing, developed using **PyQt5** as part of a homework assignment (HW5). It supports the following functions:
+This project is a graphical user interface (GUI) application for image processing, developed using **PyQt5**. It supports the following functions:
 
 - Image loading and display  
 - Color space conversion (RGB, CMY, HSI, XYZ, Lab, YUV)  
